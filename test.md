@@ -16,7 +16,3 @@ description: 注册终端（获取access_token）
 | terminal\_time |  |  |  |  |
 | key\_sign |  |  |  |  |
 
-|  |  |  |
-| --- | --- |
-|  |  |  |
-
