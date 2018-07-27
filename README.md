@@ -1,4 +1,2 @@
-# Initial page
-
-enctercontent
+# 扫码产品接口文档
 
